@@ -1,4 +1,4 @@
-create schema exemplo-rest-api;
+create schema api;
 
 create table users(
     id serial primary key,
